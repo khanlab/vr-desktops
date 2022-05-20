@@ -12,6 +12,6 @@ Please also include the steps you took so we can try to reproduce the error!
 If you have any helpful screenshots, please include them!
 
 ## Environment
-* Desktop (e.g. khanlab-vr1, khanlab-vr2)
-* Headset (e.g. VR, if applicable)
-* Program (if applicable)
+* Desktop (e.g. khanlab-vr1, khanlab-vr2):
+* Headset (e.g. VR, if applicable):
+* Program (if applicable):
