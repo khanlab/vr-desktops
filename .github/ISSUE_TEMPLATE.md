@@ -1,6 +1,7 @@
 ## The problem
 
 Briefly describe the issue you are experiencing (or software you want to see installed). If you received an error, please include the error message!
+Please also select the appropriate label to the right!
 
 ## Steps to reproduce
 
